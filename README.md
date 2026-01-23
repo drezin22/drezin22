@@ -31,9 +31,9 @@
 
 <div align="center">
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=drezin22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=andre-ferreira-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=drezin22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-ferreira-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff)
 
 </div>
 
