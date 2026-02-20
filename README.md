@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=250&section=header&text=André%20Ferreira&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Desenvolvedor%20de%20Sistemas&descAlignY=60&descAlign=50" width="100%"/> </p>
 
-## 👤 Sobre mim
+## 👤 Sobre mim:
 - 🎓 **Técnico em Desenvolvimento de Sistemas** pela Fundação Bradesco  
 - 🎓 Estudante de **Gestão da Tecnologia da Informação – FIAP**  
 - 💼 Experiência em **Suporte Técnico N1** e **Vendas na área de Diagnóstico por Imagem**  
@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,mysql" />
@@ -27,7 +27,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub:
 
 <div align="center">
 
@@ -39,7 +39,7 @@
 
 ---
 
-## 🌍 Onde me encontrar
+## 🌍 Onde me encontrar:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andrehmf/" target="_blank">
@@ -55,7 +55,7 @@
 
 ---
 
-## ✨ Frase que me define
+## ✨ Frase que me define:
 <p align="center">
   <em>"Transformando dados, ideias e processos em soluções inteligentes através da tecnologia."</em>
 </p>
